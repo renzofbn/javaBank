@@ -23,5 +23,5 @@ Abre una terminal dentro de la carpeta  ``` run/ ```. (Asegurate de tener java e
 java Main
 ```
 
->[!INFO]
+>[!IMPORTANT]
 > Codigo creado el 22 de abril del 2022, este es un repositorio espejo [de este repositorio](https://github.com/renzofbn/ing-software-3-2022).
